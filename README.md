@@ -4,4 +4,4 @@
 
 ## Prompt
 
-- Crie uma imagem que representa visualmente os XPTO conceitos de Arquitetura de Sistemas (System Design), mas com a estética distintiva de um jogo de Playstation, especificamente inspirado em GTA San Andreas. A imagem deve ter a aparência de um fluxograma técnico detalhado ou um diagrama de arquitetura em um quadro branco digital. Incorpore e rotule ícones para esses componentes. As conexões entre eles devem ser claras, com setas indicando o fluxo de dados e requisições, desde o usuário final até o banco de dados. Estilo limpo, profissional e informativo.
+- Crie uma imagem que representa visualmente os **XPTO** conceitos de Arquitetura de Sistemas (System Design), mas com a estética distintiva de um jogo de Playstation, especificamente inspirado em GTA San Andreas. A imagem deve ter a aparência de um fluxograma técnico detalhado ou um diagrama de arquitetura em um quadro branco digital. Incorpore e rotule ícones para esses componentes. As conexões entre eles devem ser claras, com setas indicando o fluxo de dados e requisições, desde o usuário final até o banco de dados. Estilo limpo, profissional e informativo.
